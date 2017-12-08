@@ -1,0 +1,7 @@
+DROP TABLE LIB.Admin;
+DROP TABLE LIB.Client;
+DROP TABLE LIB.Books;
+DROP TABLE LIB.Books_Group;
+DROP TABLE LIB.Publisher;
+DROP TABLE LIB.Members;
+DROP TABLE LIB.Borrowed_By;
